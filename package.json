@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Design system de redbee implementado en React",
   "main": "lib/index.js",
+  "files": ["lib"],
   "repository": "https://github.com/redbeestudios/react-design-system.git",
   "author": "Marco <marco.scabbiolo@redb.ee>",
   "license": "MIT",
