@@ -12,7 +12,8 @@
     "lint": "eslint .",
     "build": "tsc -b",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "postinstall": "tsc -b"
   },
   "dependencies": {
     "react": "^17.0.2",
